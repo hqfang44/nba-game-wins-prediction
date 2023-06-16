@@ -5,11 +5,11 @@ The code is in `nba-game-wins-prediction.ipynb`  <br>
 The presentation slides is in `NBA Game Wins Prediction Presentation.pdf`  <br>
 The program reflection is in `DRP Reflection.pdf`
 
-## Useful Link
+## Useful Links
 Code on Kaggle: https://www.kaggle.com/code/hqfang/nba-game-wins-prediction
 
 ## Data Sources
-NBA Statistics Official Website: https://www.nba.com/stats
+NBA Statistics Official Website: https://www.nba.com/stats <br>
 Open-Source Dataset: https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 ## Acknowledgements
